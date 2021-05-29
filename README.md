@@ -15,3 +15,8 @@ This is a good example of [my code](https://gist.github.com/freeddyy0124/522bc4d
 ## Colab Example
 This is the [notebook](https://colab.research.google.com/drive/1dwjy9hbYzkUsHoCExL6kBTNW1wOvHNvP?usp=sharing)
 
+## Images
+<img width="335" alt="Screen Shot 2021-05-29 at 12 35 23 PM" src="https://user-images.githubusercontent.com/82694987/120079624-59cbbe80-c07a-11eb-911c-da46f2b5e2a7.png">
+
+
+
